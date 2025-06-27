@@ -1,1 +1,1 @@
-# placement_project
+[View the Power BI Dashboard]https://app.powerbi.com/view?r=eyJrIjoiNzQzMDkyODctZmU3Ny00YTg0LWFiNTctYzc3MDIxMWE3NDM2IiwidCI6IjA4MGVmMWM2LWNmOGItNGQ3MC04OWVkLTM1YTI2M2VkNTg2MCJ9
